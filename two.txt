@@ -1,3 +1,7 @@
 Two - 2
+<<<<<<< HEAD
 2
 2
+=======
+two - is 2
+>>>>>>> staging
